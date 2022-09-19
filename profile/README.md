@@ -1,1 +1,1 @@
-[![Mintlify](/profile/mintlify.svg)](https://mintlify.com)
+[![Mintlify](/profile/hero.png)](https://mintlify.com)
